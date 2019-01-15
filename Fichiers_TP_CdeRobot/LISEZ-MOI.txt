@@ -1,0 +1,17 @@
+BE COMMANDE DE ROBOT
+
+* Necessite MATLAB ulterieur ou egal a 2013b
+
+* La librairie lib_robotRP.mdl s'appuie sur sf_modele_dyn_inverse_RP.m
+  et sf_loi_avant_RP.m et sf_retour_linearisant.m
+
+* La S-fonction sf_modele_dyn_inverse_RP.m contient le modele
+  dynamique inverse du robot et ne doit pas etre modifiee.
+
+* Vous devrez completer les deux dernieres S-fonctions
+  sf_loi_avant_RP.m et sf_retour_linearisant.m sur la base de leurs
+  prototypes "*VERSION_ETUDIANT.m"
+  
+Si probleme : <mailto:patrick.danes@laas.fr>
+
+

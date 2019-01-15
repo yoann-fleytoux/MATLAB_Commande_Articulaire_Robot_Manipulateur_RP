@@ -1,0 +1,12 @@
+Questions TP CDE ROBOT
+
+On voit qu'il y a plus d'erreur avec r = 1/30 et encore plus avec r = 1
+
+Ensuite quand on utilise la grosse boite dans le d, on utilise seulement r = 1/200 (4d) On voit que la gravitation ne touche que q2
+
+5. Q2 est affecté par la gravitation mais pas Q1, le modèle fonctionne en utilisant le modèle robot_RP et se stabilise plus vite que dans le modèle linéaire.
+Marche mieux quand r est petit, et quand il augmente le système devient vite inutilisable.
+
+6. On choisit Ti = 0.8 car la marge de phase du diagramme de Bode est de 45.1 degrés.
+
+7. Lier le ,odele de la fig 4 avec celui de la figure et les equations au dessus
